@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">counterApp</string>
+
+    <string name="onePoint">1 point</string>
+    <string name="twoPoint">2 point</string>
+    <string name="threePoint">3 point</string>
+
+
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+
+    <string name="restBtn">Rest</string>
+    <string name="zero">0</string>
+
+</resources>
